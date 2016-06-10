@@ -1,2 +1,8 @@
-node_modules
-.sass-cache
+## FOLDERS
+/.sass-cache/
+/node_modules
+
+## FILES
+.DS_Store
+.idea
+npm-debug.log
